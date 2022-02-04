@@ -11,6 +11,14 @@
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
 -
+   type: linkedin
+   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+   url:  'https://www.linkedin.com/in/nomi98'                  # Fill with your Linkedin homepage
+-
+   type: facebook
+   icon: 'fab fa-facebook'   # icons powered by <https://fontawesome.com/>
+   url:  'https://www.facebook.com/Nominyne'                  # Fill with your Linkedin homepage
+-
   type: rss
   icon: 'fas fa-rss'
   noblank: true
@@ -20,10 +28,7 @@
 #   type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your mastodon account page
-# -
-#   type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
+
 # -
 #   type: stack-overflow
 #   icon: 'fab fa-stack-overflow'

@@ -13,41 +13,41 @@ baseurl: ''
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Europe/Warsaw
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: "Noman's Blog"                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: A window into my life.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  A github repository containing Nomi's projects. Noman Noor Baba.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://nomi.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: nomi             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: nominyne            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: Noman Noor Baba
+  email: potatochanyo@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/nominyne      # change to your twitter homepage
+    - https://github.com/nomi       # change to your github homepage
+    - https://www.facebook.com/Nominyne
+    - https://www.linkedin.com/in/nomi98
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/Nominyne
+    - https://www.linkedin.com/in/nomi98
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
@@ -82,7 +82,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: 'https://avatars.githubusercontent.com/u/28227944?v=4'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
